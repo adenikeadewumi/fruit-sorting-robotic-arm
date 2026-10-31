@@ -1,0 +1,7 @@
+ultralytics
+ncnn
+opencv-python
+numpy
+dynamixel-sdk
+# picamera2 / libcamera are installed on Raspberry Pi OS via apt:
+#   sudo apt install -y python3-picamera2 python3-libcamera

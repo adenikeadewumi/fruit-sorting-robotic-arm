@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+# Large model/data artefacts - publish via GitHub Releases or Git LFS instead
+datasets/
+runs/
+*.pt
+*.onnx
